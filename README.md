@@ -1,7 +1,7 @@
  <h1 align="center">Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="32" />, I'm Kimberlly Vitoria</i><h1>                                
 
 <h3 align="center"> I am a systems analysis and development student at Unopar and full stack programming at Infinity Scholl.</h3>
-<h3 align="center">📚  I am always looking to learn and study new things .my intention is to be able to work as a full stack developer one day.</h3>
+<h3 align="center">📚  I am always looking to learn and study new things,my intention is to work as a full stack developer .</h3>
 
 ###
                       
