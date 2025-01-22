@@ -12,6 +12,7 @@
   <img align="center" alt="Kim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kim-"Mysql" height ="30" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg">
+   <img align="center" alt="Kim-"Python" height ="30" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg">
 </div>
 
            
