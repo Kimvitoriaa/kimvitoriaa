@@ -1,19 +1,45 @@
- <h1 align="center">Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="32" />, I'm Kimberlly Vitoria</i><h1>                                
+<h1 align="center">👾 Kim | Back-end Dev in the Making 👾</h1>
 
-<h3 align="center"> I am a systems analysis and development student at Unopar and full stack programming at Infinity Scholl.</h3>
-<h3 align="center">📚  I am always looking to learn and study new things,my intention is to work as a full stack developer .</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Focada+em+Back-end;Java%2C+Python%2C+SQL+%E2%9D%A4;VS+Code+e+Eclipse+na+veia!" alt="Typing SVG" />
+</p>
 
-###
-                      
-              
-## Linguagens e Ferramentas
- <div style="display: inline_block"><br>
-  <img align="center" alt="Kim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kim-"Mysql" height ="30" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg">
-   <img align="center" alt="Kim-"Python" height ="30" width="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000
-">
-</div>
+---
+
+### 🧠 Sobre mim
+
+- 🔭 Atualmente estudando para ser dev Back-end  
+- 💻 Focada em **Java**, **Python**, **SQL** e **MySQL**  
+- 🌑 Amante de temas escuros e código com estilo  
+- ✨ Estudando **Inglês** e **Espanhol** (nível básico)  
+- 🎯 Sempre em busca de aprender mais, um commit por vez
+
+---
+
+### 🛠️ Tecnologias que uso e estudo
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" />
+</p>
+
+---
+
+### 📈 Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7F00FF&height=100&section=footer"/>
+</p>
 
            
