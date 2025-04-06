@@ -1,22 +1,22 @@
 <h1 align="center">👾 Kim | Back-end Dev in the Making 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Focada+em+Back-end;Java%2C+Python%2C+SQL+%E2%9D%A4;VS+Code+e+Eclipse+na+veia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Programming+Student;Focused+on+Back-end+Development;Learning+Java%2C+Python%2C+SQL+%E2%9D%A4;VS+Code+and+Eclipse+fan!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 🔭 Atualmente estudando para ser dev Back-end  
-- 💻 Focada em **Java**, **Python**, **SQL** e **MySQL**  
-- 🌑 Amante de temas escuros e código com estilo  
-- ✨ Estudando **Inglês** e **Espanhol** (nível básico)  
-- 🎯 Sempre em busca de aprender mais, um commit por vez
+- 🎓 Programming student focused on **Back-end development**
+- 🧪 Learning **Java**, **Python**, **SQL** and **MySQL**
+- 🌌 Dark theme addicted and passionate about clean code
+- 🌍 Currently studying **English** and **Spanish** (basic level)
+- 🚀 Always learning and improving — one commit at a time
 
 ---
 
-### 🛠️ Tecnologias que uso e estudo
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📈 Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimvitoriaa&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -42,11 +42,3 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=7F00FF&height=100&section=footer"/>
 </p>
 
-
-
-
-
-
-
-
-           
