@@ -12,7 +12,7 @@
 - 🧪 Learning **Java**, **Python**, **SQL** and **MySQL**
 - 🌌 Dark theme addicted and passionate about clean code
 - 🌍 Currently studying **English** and **Spanish** (basic level)
-- 🚀 Always learning and improving — one commit at a time
+
 
 ---
 
