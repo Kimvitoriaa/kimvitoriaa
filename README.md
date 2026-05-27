@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🎓 Programming student focused on **Back-end development**
-- 🧪 Learning **Java**, **Python**, **SQL** and **MySQL**
+- 🧪 Learning **Java**, **C#**, **SQL** and **MySQL**
 - 🌌 Dark theme addicted and passionate about clean code
 - 🌍 Currently studying **English** and **Spanish** (basic level)
 
